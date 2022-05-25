@@ -4,7 +4,7 @@
     "url": "https://w3dev.in",
     "icon": "https://favicons.githubusercontent.com/w3dev.in",
     "slug": "w3-dev-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 557,
     "timeMonth": 557,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-25": 0
+    }
   },
   {
     "name": "Wikipedia",
