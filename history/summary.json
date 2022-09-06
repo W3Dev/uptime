@@ -5,25 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/w3dev.in",
     "slug": "w3-dev-home",
     "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "56.22%",
-    "uptimeWeek": "91.77%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "99.26%",
-    "time": 401,
-    "timeDay": 317,
-    "timeWeek": 377,
-    "timeMonth": 298,
-    "timeYear": 401,
-    "dailyMinutesDown": {
-      "2022-09-05": 465,
-      "2022-09-04": 326,
-      "2022-09-03": 40,
-      "2022-07-10": 20,
-      "2022-07-01": 20,
-      "2022-06-30": 241,
-      "2022-05-25": 16
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 400,
+    "timeDay": 312,
+    "timeWeek": 378,
+    "timeMonth": 300,
+    "timeYear": 400,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -37,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 340,
-    "timeWeek": 323,
-    "timeMonth": 218,
+    "timeDay": 205,
+    "timeWeek": 308,
+    "timeMonth": 220,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -49,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 337,
-    "timeWeek": 345,
-    "timeMonth": 322,
+    "timeDay": 327,
+    "timeWeek": 353,
+    "timeMonth": 318,
     "timeYear": 302,
-    "dailyMinutesDown": {
-      "2022-07-08": 545
-    }
+    "dailyMinutesDown": {}
   }
 ]
