@@ -6,9 +6,9 @@
     "slug": "w3-dev-home",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 264,
     "timeDay": 156,
@@ -16,7 +16,7 @@
     "timeMonth": 133,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2023-01-31": 47
+      "2023-01-31": 37
     }
   },
   {
