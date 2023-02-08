@@ -4,16 +4,16 @@
     "url": "https://w3dev.in",
     "icon": "https://icons.duckduckgo.com/ip3/w3dev.in.ico",
     "slug": "w3-dev-home",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "49.54%",
-    "uptimeWeek": "60.78%",
-    "uptimeMonth": "90.98%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "54.45%",
+    "uptimeWeek": "60.94%",
+    "uptimeMonth": "91.01%",
+    "uptimeYear": "98.96%",
     "time": 1712,
-    "timeDay": 3934,
-    "timeWeek": 3321,
-    "timeMonth": 2746,
+    "timeDay": 3770,
+    "timeWeek": 3339,
+    "timeMonth": 2747,
     "timeYear": 1712,
     "dailyMinutesDown": {
       "2023-02-08": 648,
@@ -22,7 +22,7 @@
       "2023-02-05": 736,
       "2023-02-04": 641,
       "2023-02-03": 289,
-      "2023-02-02": 290
+      "2023-02-02": 274
     }
   },
   {
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 292,
-    "timeWeek": 206,
-    "timeMonth": 161,
+    "timeDay": 179,
+    "timeWeek": 211,
+    "timeMonth": 164,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 447,
-    "timeWeek": 289,
-    "timeMonth": 311,
+    "timeDay": 267,
+    "timeWeek": 307,
+    "timeMonth": 316,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2022-11-23": 19
