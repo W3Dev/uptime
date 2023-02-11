@@ -4,17 +4,17 @@
     "url": "https://w3dev.in",
     "icon": "https://icons.duckduckgo.com/ip3/w3dev.in.ico",
     "slug": "w3-dev-home",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "37.64%",
-    "uptimeWeek": "50.04%",
-    "uptimeMonth": "88.50%",
-    "uptimeYear": "98.68%",
-    "time": 1928,
-    "timeDay": 3231,
-    "timeWeek": 3783,
-    "timeMonth": 2932,
-    "timeYear": 1928,
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "38.14%",
+    "uptimeWeek": "50.51%",
+    "uptimeMonth": "88.61%",
+    "uptimeYear": "98.69%",
+    "time": 1939,
+    "timeDay": 3468,
+    "timeWeek": 3803,
+    "timeMonth": 2947,
+    "timeYear": 1939,
     "dailyMinutesDown": {
       "2023-02-11": 154,
       "2023-02-10": 973,
@@ -23,7 +23,7 @@
       "2023-02-07": 733,
       "2023-02-06": 622,
       "2023-02-05": 736,
-      "2023-02-04": 185
+      "2023-02-04": 138
     }
   },
   {
