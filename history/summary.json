@@ -4,18 +4,20 @@
     "url": "https://w3dev.in",
     "icon": "https://icons.duckduckgo.com/ip3/w3dev.in.ico",
     "slug": "w3-dev-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 482,
-    "timeWeek": 177,
-    "timeMonth": 161,
-    "timeYear": 119,
-    "dailyMinutesDown": {}
+    "time": 159,
+    "timeDay": 10136,
+    "timeWeek": 2629,
+    "timeMonth": 774,
+    "timeYear": 173,
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "Wikipedia",
