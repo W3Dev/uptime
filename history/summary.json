@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/w3dev.in.ico",
     "slug": "w3-dev-home",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 205,
-    "timeDay": 395,
-    "timeWeek": 357,
-    "timeMonth": 366,
-    "timeYear": 219,
+    "timeDay": 279,
+    "timeWeek": 364,
+    "timeMonth": 361,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2025-11-18": 41,
       "2026-02-02": 53,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 40,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 189,
+    "timeDay": 220,
+    "timeWeek": 141,
+    "timeMonth": 143,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2025-12-03": 19
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 131,
-    "timeWeek": 279,
-    "timeMonth": 252,
-    "timeYear": 275,
+    "timeDay": 263,
+    "timeWeek": 276,
+    "timeMonth": 257,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   }
 ]
